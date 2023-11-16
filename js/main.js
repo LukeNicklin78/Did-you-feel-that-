@@ -37,7 +37,7 @@ function init() {
 
   //loading 3d model - CHANGE PATH NAME
   loader.load(
-    "../assets/Final.glb",
+    "../assets/Fin.glb",
     function (obj) {
       scene.add(obj.scene);
     },
